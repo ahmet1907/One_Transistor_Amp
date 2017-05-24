@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/casper/Desktop/Kicad/16.03.2017DERS/23,03,2017/One_Transistor_Amp/One_Transistor_Amp.sch)
-    (date "26.03.2017 00:23:13")
+    (date "18.05.2017 09:40:18")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

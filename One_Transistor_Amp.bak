@@ -34,10 +34,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "One_Transistor_Amp"
-Date "2017-03-26"
-Rev "1"
-Comp "Ahmet Çelik"
+Title ""
+Date ""
+Rev ""
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -193,7 +193,7 @@ U 1 1 58D3A09F
 P 7650 1450
 F 0 "#PWR01" H 7650 1300 50  0001 C CNN
 F 1 "+12V" H 7650 1590 50  0000 C CNN
-F 2 "Wire_Pads:SolderWirePad_single_2-5mmDrill" H 7650 1450 50  0001 C CNN
+F 2 "" H 7650 1450 50  0000 C CNN
 F 3 "" H 7650 1450 50  0000 C CNN
 	1    7650 1450
 	1    0    0    -1  
