@@ -1,0 +1,20 @@
+Source,C:/Users/casper/Desktop/Kicad/16.03.2017DERS/23,03,2017/One_Transistor_Amp/One_Transistor_Amp.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,27.05.2017 16:05:04
+
+Title,One_Transistor_Amp
+Company,Ahmet Çelik
+Revision,1
+Date Issue,2017-03-26
+
+Reference,Value,Library,Library Ref
+C1,20uF,device,C
+P1,CONN_01X02,conn,CONN_01X02
+P2,CONN_01X02,conn,CONN_01X02
+C2,20uF,device,C
+R1,22k,device,R
+R2,4.7k,device,R
+R3,6.8k,device,R
+R4,1.8k,device,R
+C3,50uF,device,C
+Q1,BC548,transistors,BC548
